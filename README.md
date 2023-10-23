@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **some commercial apps**
 
-- 👨‍💻 All of my projects are available at [my github account](my github account)
+- 👨‍💻 All of my projects are available at my github account
 
-- 📝 I write articles on [Instagram @aduzja.dev](Instagram @aduzja.dev)
+- 📝 I write articles on Instagram @aduzja.dev
 
 - 💬 Ask me about **flutter, dart, react js**
 
