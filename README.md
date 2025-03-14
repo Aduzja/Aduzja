@@ -1,17 +1,13 @@
-<h1 align="center">Hi, I'm Adrianna 👩‍💻 Passionate Flutter Developer from Poland 🚀</h1>
-<h3 align="center">I am deeply passionate about crafting robust and efficient mobile applications using the power of Flutter and Dart programming language. My journey in the world of software development is fueled by the thrill of problem-solving and the art of turning innovative ideas into functional, user-friendly apps.</h3>
+<h1 align="center">Hi, I'm Adrianna 👩‍💻 Flutter & Frontend Developer from Poland 🚀</h1>  
+<h3 align="center">I am a passionate developer who started my programming journey in October 2021. I specialize in building mobile applications with Flutter and am currently expanding my skills in frontend technologies such as HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS.</h3>  
 
-- 🔭 I’m currently working on **some commercial apps**
-
-- 👨‍💻 All of my projects are available at my github account
-
-- 📝 I write articles on Instagram @aduzja.dev
-
-- 💬 Ask me about **flutter, dart, react js**
-
-- 📫 How to reach me **adrianna.gerek@gmail.com**
-
-- ⚡ Fun fact **programmer and graphic designer**
+- 🔭 I’m currently learning **modern frontend technologies** while developing a new **portfolio website**  
+- 👨‍💻 Some of my **commercial projects** were developed on **GitLab** and are not publicly available  
+- 📱 I have **published applications on Google Play**  
+- 💡 I have experience working with **Flutter, Dart, Firebase, Hive, BloC, Dio, and Clean Architecture**  
+- 🚀 Currently improving my knowledge in **React, Next.js, Tailwind CSS, and TypeScript**  
+- 🎨 As a **graphic designer**, I have been working for years creating designs for print and branding projects  
+- 📫 How to reach me: **adrianna.gerek@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
